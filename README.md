@@ -6,3 +6,4 @@ food - This file is corrospond to the food that have to created randomly when th
 main - This is the main file of this game and it connects all the files in the game.
 scoreboard- This file is used to create the scoreboard that can be seen at the top of the game in order to show up the score of the player.
 snake - This is the code file that everything abou the snake is included. From making the snake and how it behave when we press the keys of the keyboard..
+...
